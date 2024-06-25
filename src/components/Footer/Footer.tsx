@@ -10,9 +10,9 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://vinayaksingh.in" className="logo">
-        <span>www.vinayak</span>
-        <span>singh.in</span>
+      <a href="https://abhaypp.in" className="logo">
+        <span>www.abhay</span>
+        <span>pp.in</span>
       </a>
       <div>
         <p>
@@ -22,35 +22,35 @@ export function Footer() {
       </div>
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/codevinayak"
+          href="https://www.linkedin.com/in/abhay-prajapati-325935315"
           target="_blank"
           rel="noreferrer"
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/CodeVinayak/"
+          href="https://github.com/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak"
+          href="https://api.whatsapp.com/send/?phone=%2B918853694508&text=Hello+Abhay"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
         <a
-          href="https://t.me/CodeVinayak"
+          href="https://t.me/paras"
           target="_blank"
           rel="noreferrer"
         >
           <img src={telegram} alt="telegram" />
         </a>
         <a
-          href="https://www.instagram.com/vinayaksingh.in"
+          href="https://www.instagram.com/abhay_pp88"
           target="_blank"
           rel="noreferrer"
         >
