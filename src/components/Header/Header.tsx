@@ -16,8 +16,8 @@ export function Header() {
     <Container className="header-fixed">
       <Router>
         <HashLink smooth to="#home" className="logo">
-          <span>{"<Vinayak "}</span>
-          <span>{" Singh/>"}</span>
+          <span>{"<Abhay "}</span>
+          <span>{" Prajapati/>"}</span>
         </HashLink>
         <input
           onChange={toggleTheme}
