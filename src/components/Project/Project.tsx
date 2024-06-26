@@ -68,7 +68,7 @@ export function Project() {
                 <a href="https://github.com/" target="\_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://github.com/" target="\_blank" rel="noreferrer">
+                <a href="https://notes.abhaypp.com/" target="\_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
